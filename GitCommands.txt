@@ -1,0 +1,3 @@
+git push
+git checkout <existing branch>
+git commit -m "short past tense message"
